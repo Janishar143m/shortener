@@ -1,5 +1,5 @@
 # shortener
-URL Shortening LLD
+
 URL Shortening low level Design
 
 Implements below functionalities as of now
